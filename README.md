@@ -7,6 +7,6 @@ Did the project for learning purposes. Its a full fledged REST api with user aut
  express js (to setup up user routes and authentication middlewares)
  jsonwebtoken (to enable tokens for logging in/out functionality)
  multer (to enable user avatar uploads and storage in db)
- sharp (to standardize uoloaded avatars by criping images and converting filr types to png)
+ sharp (to standardize uoloaded avatars by Cropping images and converting file types to png)
  validator (to validate userschema fields )
  

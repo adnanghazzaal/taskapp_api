@@ -9,4 +9,4 @@ Did the project for learning purposes. Its a full fledged REST api with user aut
  multer (to enable user avatar uploads and storage in db)
  sharp (to standardize uoloaded avatars by Cropping images and converting file types to png)
  validator (to validate userschema fields )
- 
+ env-cmd (easy configuration of env variables)
